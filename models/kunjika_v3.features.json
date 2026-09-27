@@ -1,0 +1,12 @@
+{
+  "keyword": "kunjika",
+  "sample_rate": 16000,
+  "frame_len": 512,
+  "frame_hop": 320,
+  "num_frames": 49,
+  "num_mel": 40,
+  "fft_size": 512,
+  "mel_lo_hz": 60.0,
+  "mel_hi_hz": 7600.0,
+  "log_floor": 1e-06
+}
